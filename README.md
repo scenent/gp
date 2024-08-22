@@ -35,6 +35,7 @@ int main(const _argc, const char * const * const _argv) {
 - abs(x)
 
 ## Screenshot
+**(renderer uses y-inverted coordinate system)**
 | Sine Function | Quadratic Function |
 | ---- | ---- |
 | `y = sin(x / 10.0) * 50.0 + 100` | `y = (x / 10.0) ^ 2 + 100` |
